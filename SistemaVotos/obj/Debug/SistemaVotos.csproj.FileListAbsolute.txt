@@ -1,0 +1,7 @@
+C:\Projects\C#\SistemaVotos\SistemaVotos\obj\Debug\SistemaVotos.csprojAssemblyReference.cache
+C:\Projects\C#\SistemaVotos\SistemaVotos\obj\Debug\SistemaVotos.csproj.CoreCompileInputs.cache
+C:\Projects\C#\SistemaVotos\SistemaVotos\bin\Debug\SistemaVotos.exe.config
+C:\Projects\C#\SistemaVotos\SistemaVotos\bin\Debug\SistemaVotos.exe
+C:\Projects\C#\SistemaVotos\SistemaVotos\bin\Debug\SistemaVotos.pdb
+C:\Projects\C#\SistemaVotos\SistemaVotos\obj\Debug\SistemaVotos.exe
+C:\Projects\C#\SistemaVotos\SistemaVotos\obj\Debug\SistemaVotos.pdb
